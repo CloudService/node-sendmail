@@ -1,12 +1,8 @@
 {
-  "author": "Gui Lin <guileen AT gmail DOT com>",
-  "name": "sendmail",
-  "description": "Sendmail without setting up SMTP server",
+  "author": "Jeffrey Sun",
+  "name": "sendmail-js",
+  "description": "The author of this module is Gui Lin <guileen AT gmail DOT com>. I just fix some defects.",
   "version": "0.2.0",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/guileen/node-sendmail.git"
-  },
   "main": "./sendmail",
   "engines": {
     "node": ">=0.6.0"
